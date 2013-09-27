@@ -1,0 +1,4 @@
+sevone_app:
+    resource: "@SevoneAppBundle/Resources/config/routing.yml"
+    prefix:   /
+

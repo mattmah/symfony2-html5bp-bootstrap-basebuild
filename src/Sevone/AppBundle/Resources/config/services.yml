@@ -1,0 +1,7 @@
+parameters:
+#    sevone_app.example.class: Sevone\AppBundle\Example
+
+services:
+#    sevone_app.example:
+#        class: %sevone_app.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

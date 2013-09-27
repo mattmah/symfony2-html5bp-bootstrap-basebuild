@@ -1,0 +1,3 @@
+sevone_app_homepage:
+    pattern:  /
+    defaults: { _controller: SevoneAppBundle:Default:index }
